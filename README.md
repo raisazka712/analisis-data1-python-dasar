@@ -11,10 +11,10 @@ Data yang kamu butuhkan disimpan dalam file  /datasets/music_project_en.csv. Kam
 
 Deskripsi kolom:
 
-'userID' — ID pengguna
-'Track' — judul lagu
-'artist' — nama artis
-'genre'
-'City' — kota asal pengguna
-'time' — waktu saat lagu tersebut diputar
+'userID' — ID pengguna,
+'Track' — judul lagu,
+'artist' — nama artis,
+'genre',
+'City' — kota asal pengguna,
+'time' — waktu saat lagu tersebut diputar,
 'Day' — hari dalam seminggu
